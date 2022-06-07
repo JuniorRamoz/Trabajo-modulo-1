@@ -1,5 +1,4 @@
 # Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Rodolfo Ramos Hernandez
+- Luis Alberto Morelo Pitalua
